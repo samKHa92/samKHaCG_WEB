@@ -33,11 +33,10 @@ export const HomePage = () => {
                         HomePageButtonSize='btn--large'
                         link='/trailer'
                     >
-                        WATCH TRAILER <i className='far fa-play-circle' />
+                        WATCH TRAILER <i className='fa fa-play-circle' />
                     </HomePageButton>
                 </div>
             </div>
-            {/*<Cards />*/}
         </>
     )
 }
