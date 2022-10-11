@@ -1,6 +1,6 @@
-import '../styles/ErrorPage.css'
+import '../styles/ErrorPageAstronaut.css'
 
-export const ErrorPage = () => {
+export const ErrorPageAstronaut = () => {
 
     return (
         <div className="error-page">
